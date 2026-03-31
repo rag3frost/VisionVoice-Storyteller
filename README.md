@@ -33,9 +33,7 @@
 - [Project Structure](#-project-structure)
 - [Key Design Decisions](#-key-design-decisions)
 - [Challenges & Learnings](#-challenges--learnings)
-- [Future Improvements](#-future-improvements)
 - [References](#-references)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -411,19 +409,7 @@ CV_project/
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] **Batch processing** — Support multiple images for album-to-audiobook conversion
-- [ ] **Fine-tuned storytelling** — Train a LoRA adapter on creative writing datasets for better stories
-- [ ] **Streaming TTS** — Implement chunked audio generation for real-time playback during generation
-- [ ] **Multi-language support** — Leverage XTTS-v2's multilingual capabilities for non-English stories
-- [ ] **Web deployment** — Deploy as a standalone web app using HuggingFace Spaces
-- [ ] **Video input** — Extend to generate stories from video keyframes
-- [ ] **User style control** — Allow users to choose story tone (humorous, dramatic, poetic)
-
----
-
-## 📚 References
+##  References
 
 1. **Li, J., Li, D., Xiong, C., & Hoi, S.** (2022). [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086). *ICML 2022*.
 
@@ -436,20 +422,6 @@ CV_project/
 5. **Lee, K., et al.** (2021). [Deep Learning-Based Short Story Generation for an Image Using the Encoder-Decoder Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9512087). *IEEE Access*.
 
 6. **Alameda Dev.** [Vision Meets Language: AI-Powered Storytelling from Images](https://www.alamedadev.com/insight/ai-image-storytelling-tutorial).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get involved:
-
-1. **Fork** this repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-Please ensure your code follows the existing style and includes appropriate documentation.
 
 ---
 

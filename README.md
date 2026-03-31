@@ -433,6 +433,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
+**Made by Sujal Sakhare**
+
 **Built with ❤️ for the Computer Vision Course — BYOP Capstone Project**
 
 *If this project helped you, consider giving it a ⭐!*
